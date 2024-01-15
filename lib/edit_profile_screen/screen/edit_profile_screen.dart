@@ -14,6 +14,7 @@ import '../../generated/assets.dart';
 import '../../utils/custom_textfields.dart';
 import '../../utils/helping_widgets.dart';
 import '../../utils/no_glow_helper.dart';
+
 class EditProfileScreen extends StatelessWidget {
    EditProfileScreen({super.key});
 
