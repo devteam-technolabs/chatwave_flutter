@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001420786023",
+    "project_id": "chatwave-app-d7668",
+    "storage_bucket": "chatwave-app-d7668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001420786023:android:828321522d2575623407c2",
+        "android_client_info": {
+          "package_name": "com.example.chatwave_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-2ktZtweAYjZxXXD2Q7fw19A-JEBsTk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
